@@ -1,0 +1,6 @@
+{
+  "name": "Shorts AI",
+  "description": "A simple TikTok-style short video player interface with custom dark theme and orange highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
